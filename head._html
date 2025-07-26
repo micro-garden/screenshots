@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>{{title}}</title>
+<link rel="stylesheet" href="simple.css" />
+<link rel="icon" href="favicon.png" type="image/png" />
+</head>
+<body>
+<header>
+<a href="/micro-screenshots/">micro Screenshots</a>
+</header>
