@@ -9,7 +9,7 @@ This project showcases how each of micro’s built-in color schemes looks using
 a consistent sample file and terminal environment.
 
 Browse the color scheme gallery on GitHub Pages:
-[https://akikareha.github.io/micro-screenshots/](https://akikareha.github.io/micro-screenshots/)
+[https://micro-garden.github.io/screenshots/](https://micro-garden.github.io/screenshots/)
 
 ## About the Screenshots
 
